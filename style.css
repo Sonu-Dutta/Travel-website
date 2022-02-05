@@ -21,12 +21,11 @@ body{
     margin-right: 13rem;
 }
 #t{
-    font-family: 'Quintessential', cursive;
     font-size: 2rem;
     color: var(--theme);
 }
 #ravel{
-    font-family: 'Quintessential', cursive;
+    /* font-family: 'Quintessential', cursive; */
     text-decoration:underline;
 }
 nav{
