@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 :root{
     --theme:#50b170;
     --top:#d4872d;
@@ -162,7 +163,7 @@ nav{
 }
 h5{
     color: rgb(56, 54, 59);
-    font-weight: 100;
+    font-weight: 400;
     margin-top: 2rem;
     font-size: 1rem;
 
