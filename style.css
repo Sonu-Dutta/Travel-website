@@ -149,12 +149,11 @@ nav{
 
 
 .services-text{
-    background-color: rgb(243, 243, 250) ;
+    background-color: rgb(253, 253, 250) ;
     text-align: center;
     font-size: 1.3rem;
     color: rgb(13, 13, 56);
-    font-family: 'Abril Fatface', cursive;
-    font-weight: 400;
+    font-weight: 600;
     
 }
 .services-text:hover{
