@@ -21,19 +21,12 @@ body{
     margin-right: 13rem;
 }
 #t{
-<<<<<<< HEAD
-=======
    /* font-family: 'Quintessential', cursive;*/
->>>>>>> baa1e28228eb34c922f8f3240749d605d3a8aa2c
     font-size: 2rem;
     color: var(--theme);
 }
 #ravel{
-<<<<<<< HEAD
     /* font-family: 'Quintessential', cursive; */
-=======
-   
->>>>>>> baa1e28228eb34c922f8f3240749d605d3a8aa2c
     text-decoration:underline;
 }
 nav{
@@ -170,11 +163,8 @@ nav{
 }
 h5{
     color: rgb(56, 54, 59);
-<<<<<<< HEAD
     font-weight: 400;
-=======
     font-weight: 300;
->>>>>>> baa1e28228eb34c922f8f3240749d605d3a8aa2c
     margin-top: 2rem;
     font-size: 1rem;
 
