@@ -76,3 +76,21 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+@media (max-width:1024px){
+  body{
+    height:100vh;
+  }
+   .login-page{
+     height: 80vh;
+     width: 60vw;
+   }
+   .form{
+     height: 50vh;
+     width: 60vw;
+     margin-top: 3rem;
+   }
+
+   .login-header{
+     margin-top: 6rem;
+   }
+}

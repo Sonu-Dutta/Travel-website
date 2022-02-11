@@ -228,3 +228,11 @@ h4 span{
 .btn-book a:hover{
     color: var(--theme);
 }
+.card{
+    width: 23rem;
+}
+@media (max-width:1024px){
+    .card{
+        width: 22rem;
+    }
+}
