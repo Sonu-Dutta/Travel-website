@@ -94,3 +94,16 @@ body {
      margin-top: 6rem;
    }
 }
+@media(max-width:400px){
+  body{
+    font-size: 1rem;
+  }
+ 
+  div.form{
+    margin: 0.3rem;
+    padding: 0.5rem 1rem;
+    height: 26rem;
+    margin-bottom: 2rem;
+  }
+
+}
