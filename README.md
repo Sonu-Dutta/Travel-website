@@ -12,7 +12,7 @@
 ![](./media/home.png)
 
 ### Packages
-##### 2) Packages of the travel website, total 9-divs containing information of places one would like to visit.
+##### 2) Packages of the travel website, total 9-divs containing information of places one would like to visit. It contains heading, paragraph, icons for rating and location as well as price.
 #####    There's also a clickable button 'Book' to confirm your booking for traveling.
 
 ![](./media/packages.png)
