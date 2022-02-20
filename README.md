@@ -1,6 +1,7 @@
 # Travel-Website
 
 ## Overview
+#### The website is fully-responsive on different devices!
 
 ### Home-Page
 
@@ -31,8 +32,8 @@
 
 ![](./media/book.png)
 
-### SignUp-Page
-#### To fill up the required details to sign-up to our website.
+### SignIn-Page
+#### SignIn-Page includes Username-Input field and Password-Input field to sign-in.
 
 ![](./media/contact.png)
 
@@ -45,6 +46,7 @@
 
 ### Built with
 
+- Visual Studio Code
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
