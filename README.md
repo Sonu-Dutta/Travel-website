@@ -29,11 +29,12 @@
 
 ### Book-Page
 ##### A form for filling the details interested to visit your favourite place from the above packages.
+##### There's a button 'Back to Home' that redirects you to the home-page.
 
 ![](./media/book.png)
 
-### SignIn-Page
-#### SignIn-Page includes Username-Input field and Password-Input field to sign-in.
+### Sign In-Page
+#### Sign In-Page includes Username-Input field and Password-Input field to sign-in.
 
 ![](./media/contact.png)
 
