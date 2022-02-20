@@ -4,27 +4,37 @@
 
 ### Home-Page
 
+#### The home page consists of 4-parts:
+##### 1) There's a background video with a navbar for clickable links to different pages which includes:
+#####    Book , Packages, Contact, Services and Footer.
+
 ![](./media/home.png)
 
-### Packages-Page
+### Packages
+##### 2) Packages of the travel website, total 9-divs containing information of places one would like to visit.
+#####    There's also a clickable button 'Book' to confirm your booking for traveling.
 
 ![](./media/packages.png)
 
-### Book-Page
-
-![](./media/book.png)
-
-### Contact-Page
-
-![](./media/contact.png)
-
-### Services-Page
+### Services
+##### 3) Services consists of 3-divs, providing services for the travel-tour.
 
 ![](./media/services.png)
 
 ### Footer
+##### 4) Footer has links for all the above sections and icons for social-media accounts i.e contact.
 
 ![](./media/footer.png)
+
+### Book-Page
+##### A form for filling the details interested to visit your favourite place from the above packages.
+
+![](./media/book.png)
+
+### SignUp-Page
+#### To fill up the required details to sign-up to our website.
+
+![](./media/contact.png)
 
 ### Links
 
