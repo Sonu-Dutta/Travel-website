@@ -18,15 +18,19 @@
     <button class="btn-back"><a href="index.html">Back to Home</a></button>
   <div class="container" id="container">
     <div class="form-container log-in-container">
-        <form action="#">
+        <form action="./book.php" method="post">
             <h1>Book Now</h1>
-            <input type="text" placeholder="Where to go?" />
-            <input type="text" placeholder="For how many days?" />
-            <input type="text" placeholder="Total Members" id="">
+            <input type="text" name="name" placeholder="Enter your name" id="">
+            <input type="text" name="email" placeholder="Enter your email-id" id="">
+            <input type="phone" name="phone" placeholder="Enter your phone no" id="">
+            <input type="text" name="place" placeholder="Where to go?" />
+            <input type="text" name="days" placeholder="For how many days?" />
+            <input type="text" name="members" placeholder="Total Members" id="">
+            
             <span> Arrivals:</span>
-            <input type="date" placeholder="Arrivals" name="" id="">
+            <input type="date" placeholder="Arrivals" name="arrivals" id="">
            <span>Leaving:</span>
-            <input type="date" placeholder="Leaving" name="" id="">
+            <input type="date" placeholder="Leaving" name="leaving" id="">
             <input type="submit" id="sub-btn" value="Submit">
         </form>
     </div>
