@@ -1,22 +1,22 @@
-
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
 
 * {
 	box-sizing: border-box;
 }
 
 body {
+	font-family: "Poppins", sans-serif;
 	background: #f3e0e2;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	font-family: 'Montserrat', sans-serif;
 	height: 100vh;
 	margin: -20px 0 50px;
 }
 
 h1 {
+	font-size: 1.34rem;
 	font-weight: bold;
 	margin: 0;
 }
@@ -30,7 +30,7 @@ p {
 }
 
 span {
-	font-size: 12px;
+	font-size: 1rem;
 }
 
 a {
@@ -47,7 +47,7 @@ a {
 	color: #FFFFFF;
 	font-size: 12px;
 	font-weight: bold;
-	padding: 12px 45px;
+	padding: 10px 35px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	transition: transform 80ms ease-in;
@@ -59,7 +59,7 @@ form {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	padding: 0 50px;
+	padding: 9px 45px;
 	height: 100%;
 	text-align: center;
 }
@@ -67,8 +67,8 @@ form {
 input {
 	background-color: #eee;
 	border: none;
-	padding: 12px 15px;
-	margin: 8px 0;
+	padding: 8px 12px;
+	margin: 6px 0;
 	width: 100%;
 }
 
@@ -80,7 +80,7 @@ input {
 	overflow: hidden;
 	width: 768px;
 	max-width: 100%;
-	min-height: 480px;
+	min-height: 545px;
 }
 
 .form-container {
@@ -155,8 +155,9 @@ input {
 .btn-back{
     background: var(--head);
     color: #FFFFFF;
-    padding: 1rem;
-    margin: 2rem;
+    padding: .5rem;
+    margin-top: 2rem;
+	margin-bottom: .5rem;
 }
 
 @media(max-width:767px){
