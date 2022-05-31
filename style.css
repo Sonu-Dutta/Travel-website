@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 :root{
-    --theme:#50b170;
+    --theme:#1e8942;
     --top:#d4872d;
     --head:#3a7c9b;
   }
@@ -74,7 +74,6 @@ nav{
 }
 
 .vid-text{ 
-    /* font-family: 'Source Serif Pro', serif; */
     font-family: 'Lobster', cursive;
     height: 90vh;
     display: flex;
@@ -95,7 +94,6 @@ nav{
     font-size: 1.3rem;
 }
 
-  
 .btn{  
     margin-top: 1rem;
     width: fit-content;
@@ -104,7 +102,7 @@ nav{
     color: rgb(245, 246, 247);
     text-shadow: 2px 2px 4px rgb(105, 100, 100);
     background-color:  var(--theme);
-    transition: all 1s ease;
+    text-transform: uppercase;
 }
 .btn:hover{
     background-color: transparent;
@@ -199,8 +197,9 @@ h5{
 
 .btn-book:hover{
     text-shadow: none;
-    color: var(--theme);
+    color: black;
     padding:1rem 1.5rem;
+    background-color: #50b170;
 }
 .btn-top{
     background-color: var(--top);
@@ -223,10 +222,7 @@ h4 span{
 }
 .btn-book a{
     text-decoration: none;
-    color: aliceblue;
-}
-.btn-book a:hover{
-    color: var(--theme);
+    color: white;
 }
 .card{
     width: 23rem;
